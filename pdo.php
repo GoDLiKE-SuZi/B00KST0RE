@@ -10,5 +10,5 @@ try {
     return $conn;
 } catch(PDOException $e) {
 }
-// By GoDLiKE-SuZi and all Rights Reserved.
+// By GoDLiKE-SuZi & all Rights Reserved.
 ?>
